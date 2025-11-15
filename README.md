@@ -1,14 +1,15 @@
 #CUSTOM-LOCATION-ROTATION-SERVER
 ## Description
+This project is a lightweight Python server that lets users input 6 custom GPS coordinates and automatically rotates between them every 10 minutes. It provides a local API that serves the current coordinate in real-time as JSON, making it easy to test location-based applications or simulate movement.
 
-This project is designed to [briefly describe what your project does].
-It features [main features or functionality], making it [highlight the unique selling point].
 
 ## Features
 
-* Feature 1: [Describe the feature]
-* Feature 2: [Describe the feature]
-* Feature 3: [Describe the feature]
+* Feature 1: Full custom coordiate input
+* Feature 2: Automatic rotation
+* Feature 3: Local API Server
+* Feature 4: Real time updates
+* Feature 5: Easy to run and lightweight
 
 ## Installation
 
